@@ -3,12 +3,12 @@
     "debug": false,
     "roomCheckTime": 600,
     "recycleCheckTime": 1800,
-    "videoPartLimitSize": 100
+    "videoPartLimitSize": 50
   },
   "personInfo": {
     "nickname": "",
-    "username": "",
-    "password": "",
+    "username": "13315930452",
+    "password": "kuaidi315",
     "access_token": "",
     "refresh_token": "",
     "expires_in": "",
@@ -22,14 +22,14 @@
         "deleteLocalFile": true,
         "templateTitle": "",
         "delayTime": 0,
-        "desc": "",
+        "desc": "test",
         "source": "",
         "dynamic": "",
         "copyright": 2,
-        "roomUrl": "https://live.xxx.com/111",
-        "tid": 121,
+        "roomUrl": "https://live.bilibili.com/15022",
+        "tid": 65,
         "tags": [
-          "tag1",
+          "直播录制",
           "tag2",
           "tag3"
         ]
